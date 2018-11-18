@@ -4,7 +4,7 @@ For starter, this library helps you to get through of simple processing of your 
 
 ### Histogram
 
-This class is used to get the histogram chart of the images. Here is basic example of get the histogram of the image.
+This class is used to get the histogram chart of the images. Here is basic example to get the histogram of the image.
 
 ```java
 ImageProcessing histo = new Histogram(image);
