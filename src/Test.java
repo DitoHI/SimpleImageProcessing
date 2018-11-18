@@ -8,7 +8,7 @@ import java.util.Arrays;
 
 public class Test {
     public static void main(String[] args) {
-        BufferedImage image = null;
+        BufferedImage image;
 
         // get current directory
         Path currentRelativePath = Paths.get("");
